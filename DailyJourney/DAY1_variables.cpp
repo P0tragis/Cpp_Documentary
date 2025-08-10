@@ -4,11 +4,11 @@ int main () {
     
     //intereger whole number
 
-    int age = 16;
-    int year = 2009;
-    int month = 03;
-    int day = 22;
-    int height = 173;
+    int age = ;
+    int year = ;
+    int month = ;
+    int day = ;
+    int height = ;
 
     //double (float)
     double price = 1.99;
@@ -31,12 +31,12 @@ int main () {
 
     //strings (sequence of texst)
 
-    std::string firstname = "jen";
-    std::string lastname = "bayas";
+    std::string firstname = " ";
+    std::string lastname = " ";
     std::string dayname = "Sunday";
-    std::string food = "tinola";
-    std::string characteristic = "noetic";
-    std::string address = "UPPER WANGAL LA TRINIDAD BENGUET";
+    std::string food = " ";
+    std::string characteristic = " ";
+    std::string address = " ";
     std::cout << "information details:\n"
               << "first name: " << firstname << '\n'
               << "last name: " << lastname << '\n'
@@ -53,3 +53,4 @@ int main () {
               << "grade: " << grade << '\n';
     return 0;
 }
+
