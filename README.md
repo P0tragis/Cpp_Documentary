@@ -1,2 +1,3 @@
 DAAAWWGG
-these were my previous projects in c++ 
+this is my journey
+
