@@ -1,0 +1,19 @@
+#include <iostream> //input/output
+
+int main(){
+
+    //this is a comment
+
+    /*
+    this
+    is
+    a
+    multi
+    line
+    comment
+
+    */
+    std::cout << "i like stars" << '\n';
+    std::cout << "its amazing" << '\n';
+    return 0;
+}
