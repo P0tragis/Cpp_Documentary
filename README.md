@@ -1,29 +1,42 @@
-# 📚 My Tech Learning Journey
+# 🧠 Multidisciplinary Tech Learning Repository
 
-Greetings! 👋
+## 🚀 Greetings!
 
-This repository serves as my personal documentation and workspace for various projects and concepts as I learn. It covers the following exciting domains:
+Welcome to my personal learning documentation hub!
 
-* **Cybersecurity**
-* **Machine Learning (ML)**
-* **Hardware Hacking**
-* **Robotics**
-* **Web Development**
+This repository is dedicated to chronicling my journey and projects across several key areas of technology. My goal is to create a structured record of concepts, experiments, and code as I progress in becoming a multidisciplinary professional.
 
 ---
 
-## 🔒 Focus on Cybersecurity
+## 🗺️ Core Domains Covered
 
-Within the Cybersecurity domain, I'll be exploring and documenting hands-on experience in the following specialized areas:
+| Domain | Description | Status |
+| :--- | :--- | :--- |
+| **Cybersecurity** | Focus on offense, defense, and analysis. | 🟢 In Progress |
+| **Machine Learning** | Exploring algorithms, data science, and AI models. | 🟡 Starting Soon |
+| **Hardware Hacking** | Interacting with embedded systems and physical computing. | 🟡 Starting Soon |
+| **Robotics** | Combining software control with hardware mechanics. | ⚪ Planned |
+| **Web Development** | Building full-stack applications and understanding web architecture. | 🟢 In Progress |
 
-* Web Exploitation (e.g., OWASP Top 10)
-* Network Attacks and Traffic Analysis
-* Wi-Fi Penetration Testing
-* Malware Analysis
-* Reverse Engineering
-* Data Recovery
-* Digital Forensics
-* Cryptography
-* Defensive Security and Blue Teaming
+---
 
-Feel free to browse, follow along, or offer suggestions! Happy hacking and coding!
+## 🛡️ Deep Dive: Cybersecurity Subtopics
+
+The Cybersecurity section is a major focus and will cover a broad range of topics, including:
+
+* **Web Exploitation:** Covering common vulnerabilities and penetration testing techniques.
+* **Network Attacks:** Exploring protocols, sniffing, and internal network compromise.
+* **Wi-Fi Penetration Testing:** Documenting methods for securing and assessing wireless networks.
+* **Malware Analysis:** Techniques for static and dynamic analysis of malicious code.
+* **Reverse Engineering:** Breaking down compiled applications to understand their function.
+* **Data Recovery & Digital Forensics:** Investigating digital evidence and restoring lost information.
+* **Cryptography:** Implementation and breaking of ciphers and hashing algorithms.
+* **Defense & Blue Teaming:** Strategies for building resilient systems and incident response.
+
+---
+
+## 🙏 Contribution & Feedback
+
+This is primarily a personal learning repository, but suggestions for better resources or cleaner code are always welcome!
+
+Happy learning!
