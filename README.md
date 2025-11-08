@@ -8,15 +8,15 @@ This repository is dedicated to chronicling my journey and projects across sever
 
 ---
 
-## 🗺️ Core Domains Covered
+## 🗺️ Core Domains Covered and Status
 
 | Domain | Description | Status |
 | :--- | :--- | :--- |
-| **Cybersecurity** | Focus on offense, defense, and analysis. | 🟢 In Progress |
-| **Machine Learning** | Exploring algorithms, data science, and AI models. | 🟡 Starting Soon |
-| **Hardware Hacking** | Interacting with embedded systems and physical computing. | 🟡 Starting Soon |
-| **Robotics** | Combining software control with hardware mechanics. | ⚪ Planned |
-| **Web Development** | Building full-stack applications and understanding web architecture. | 🟢 In Progress |
+| **Robotics** | Combining software control with hardware mechanics (Currently focused on **C fundamentals**). | 🟢 **In Progress** |
+| **Cybersecurity** | Focus on offense, defense, and analysis. | 🟡 **Starting Soon** |
+| **Machine Learning** | Exploring algorithms, data science, and AI models. | 🟡 **Starting Soon** |
+| **Hardware Hacking** | Interacting with embedded systems, physical computing, and IoT. | 🟡 **Starting Soon** |
+| **Web Development** | Building full-stack applications and understanding web architecture. | ⚪ **Planned** |
 
 ---
 
@@ -38,5 +38,7 @@ The Cybersecurity section is a major focus and will cover a broad range of topic
 ## 🙏 Contribution & Feedback
 
 This is primarily a personal learning repository, but suggestions for better resources or cleaner code are always welcome!
+
+Happy Coding and Learning! KUDOS!!!!
 
 Happy learning!
